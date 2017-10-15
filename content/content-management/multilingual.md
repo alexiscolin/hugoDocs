@@ -83,7 +83,7 @@ angledQuotes = false
 weight = 2
 title = "Français"
 [Languages.fr.Taxonomies]
-plaque = "plaques"
+etiquette = "etiquette"
 {{< /code >}}
 
 ## Translate Your Content
